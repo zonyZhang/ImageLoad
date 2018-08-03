@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageLoad</string>
+    <string name="title_home">Base</string>
+    <string name="title_dashboard">RECYCLEVIEW</string>
+    <string name="title_notifications">TRANSFORM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recycleview_fragment">Hello recycleview fragment</string>
+    <string name="tranceform_fragment">Hello tranceform fragment</string>
+</resources>
